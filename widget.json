@@ -1,0 +1,70 @@
+{
+    "textColor": {
+      "type": "dropdown",
+      "label": "Choose the text color:",
+      "value": "white",
+      "options": {
+        "white": "White color",
+        "black": "Black color"
+      }
+    },
+    "secondColor": {
+      "type": "colorpicker",
+      "label": "Accent color",
+      "value": "#0000FF"
+    },
+    "socialIcon1": {
+      "type": "dropdown",
+      "label": "Choose the first social icon:",
+      "value": "",
+      "options": {
+        "ig": "Instagram",
+        "yt": "YouTube",
+        "ttv": "Twitch"
+      }
+    },
+    "socialName1": {
+      "type": "text",
+      "label": "First social username:",
+      "value": ""
+    },
+    "socialIcon2": {
+      "type": "dropdown",
+      "label": "Choose the second social icon:",
+      "value": "",
+      "options": {
+        "ig": "Instagram",
+        "yt": "YouTube",
+        "ttv": "Twitch"
+      }
+    },
+    "socialName2": {
+      "type": "text",
+      "label": "Second social username:",
+      "value": ""
+    },
+    "socialIcon3": {
+      "type": "dropdown",
+      "label": "Choose the third social icon:",
+      "value": "",
+      "options": {
+        "ig": "Instagram",
+        "yt": "YouTube",
+        "ttv": "Twitch"
+      }
+    },
+    "socialName3": {
+      "type": "text",
+      "label": "Third social username:",
+      "value": ""
+    },
+    "customSocialImage": {
+         "type": "image-input",
+       "label": "Upload custom social image"
+    },
+    "customSocialUsername": {
+      "type": "text",
+      "label": "Custom social username:",
+      "value": ""
+    }
+  }
